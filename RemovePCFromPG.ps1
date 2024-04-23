@@ -5,7 +5,7 @@ The computer names should be listed in the array of items to remove.
 
 The Protection Group to be checked should also be listed in the correct variable.
 
-A new list of Computers will be created of all computers in the group except those in the remove array.
+A new list of Computers will be created of all computers in the group minus those in the remove array.
 
 The Protection Group will be updated with the new list of PCs to keep and then a rescan will commense to remove the computers.
 
