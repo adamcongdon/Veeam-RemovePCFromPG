@@ -13,7 +13,7 @@ The Protection Group will be updated with the new list of PCs to keep and then a
 
 
 # Protection Group in which to remove servers
-$ProtectionGroupToRemoveFrom = "Backup Server"
+$ProtectionGroupToRemoveFrom = "Protection Group 1"
 
 # This list is comma separated. Each name or IP between double quotes and with a comma after all but the last.
 $ComputersToRemove = @(
